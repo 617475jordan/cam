@@ -1,0 +1,170 @@
+﻿Build started 2017-12-26 20:15:36.
+     1>Project "C:\Users\NI\Desktop\code\cam\Affectiva\Affectiva.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\NI\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _BOOST_LINK_ /D _WINSOCK_DEPRECATED_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\ni\desktop\code\cam\affectiva\plottingimagelistener.hpp(309): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\plottingimagelistener.hpp(318): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\plottingimagelistener.hpp(319): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\plottingimagelistener.hpp(325): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\plottingimagelistener.hpp(329): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\plottingimagelistener.hpp(334): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\plottingimagelistener.hpp(338): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\plottingimagelistener.hpp(386): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(284): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(295): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(394): warning C4244: 'initializing' : conversion from 'const float' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(403): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(404): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(409): warning C4244: '*=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(441): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(443): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(445): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(451): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(453): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(455): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(479): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(564): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(605): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(636): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(637): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(650): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(651): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(652): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(691): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(732): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(759): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(760): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(773): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(774): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(775): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(900): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(945): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(946): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(952): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(953): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(959): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(963): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(967): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(971): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(976): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(977): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(985): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(987): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(994): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(996): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(1017): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(1043): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(1053): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(1123): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(1281): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(1282): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(1292): warning C4244: 'argument' : conversion from 'const float' to 'const int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(1303): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(1304): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(1309): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\matrix.h(1348): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\lktracker.h(200): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\lktracker.h(201): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\lktracker.h(212): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\lktracker.h(213): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\lktracker.h(217): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\lktracker.h(218): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\lktracker.h(303): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\lktracker.h(328): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\lktracker.h(329): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\lktracker.h(406): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\lktracker.h(407): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\lktracker.h(460): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\lktracker.h(517): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\lktracker.h(535): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\lktracker.h(536): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\lktracker.h(576): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\fernfilter.h(239): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\ni\desktop\code\cam\affectiva\fernfilter.h(240): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\ni\desktop\code\cam\affectiva\fernfilter.h(273): warning C4244: '=' : conversion from 'const float' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\fernfilter.h(274): warning C4244: '=' : conversion from 'const float' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\fernfilter.h(355): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\fernfilter.h(492): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\fernfilter.h(494): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\fernfilter.h(895): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\fernfilter.h(896): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\fernfilter.h(1026): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\fernfilter.h(1037): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\fernfilter.h(1038): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\fernfilter.h(1209): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\fernfilter.h(1210): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\fernfilter.h(1211): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\fernfilter.h(1212): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\fernfilter.h(1268): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\fernfilter.h(1275): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\fernfilter.h(1319): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\fernfilter.h(1320): warning C4244: 'initializing' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\fernfilter.h(1323): warning C4244: 'argument' : conversion from 'const float' to 'const int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\fernfilter.h(1324): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\fernfilter.h(1324): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\fernfilter.h(1361): warning C4305: 'argument' : truncation from 'double' to 'const float'
+     1>c:\users\ni\desktop\code\cam\affectiva\fernfilter.h(1363): warning C4305: 'argument' : truncation from 'double' to 'const float'
+     1>c:\users\ni\desktop\code\cam\affectiva\fernfilter.h(1393): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\histogram.h(77): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\histogram.h(78): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\histogram.h(89): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\histogram.h(90): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\histogram.h(91): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\histogram.h(118): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\histogram.h(121): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\histogram.h(146): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\histogram.h(161): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\histogram.h(164): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\histogram.h(171): warning C4244: 'initializing' : conversion from 'const float' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\histogram.h(177): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\histogram.h(190): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\histogram.h(200): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\histogram.h(227): warning C4244: 'argument' : conversion from 'double' to 'unsigned char', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\histogram.h(228): warning C4244: 'argument' : conversion from 'double' to 'unsigned char', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\histogram.h(229): warning C4244: 'argument' : conversion from 'double' to 'unsigned char', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\histogram.h(233): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\histogram.h(285): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\nnclassifier.h(150): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\nnclassifier.h(150): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\multiobjecttld.h(217): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\multiobjecttld.h(218): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\multiobjecttld.h(221): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\multiobjecttld.h(222): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\multiobjecttld.h(318): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\multiobjecttld.h(351): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\multiobjecttld.h(367): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\multiobjecttld.h(447): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\multiobjecttld.h(703): warning C4244: '=' : conversion from 'const float' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\multiobjecttld.h(704): warning C4244: '=' : conversion from 'const float' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\multiobjecttld.h(705): warning C4244: '=' : conversion from 'const float' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\multiobjecttld.h(706): warning C4244: '=' : conversion from 'const float' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\multiobjecttld.h(862): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ni\desktop\code\cam\affectiva\multiobjecttld.h(830): warning C4101: 'm_tmpBox' : unreferenced local variable
+     1>c:\users\ni\desktop\code\cam\affectiva\header.h(107): warning C4244: 'initializing' : conversion from 'clock_t' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\header.h(163): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ni\desktop\code\cam\affectiva\header.h(172): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\header.h(173): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\header.h(174): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\header.h(175): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\source.cpp(84): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ni\desktop\code\cam\affectiva\source.cpp(96): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ni\desktop\code\cam\affectiva\source.cpp(102): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ni\desktop\code\cam\affectiva\source.cpp(106): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ni\desktop\code\cam\affectiva\source.cpp(141): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ni\desktop\code\cam\affectiva\source.cpp(174): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\source.cpp(201): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\source.cpp(270): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ni\desktop\code\cam\affectiva\source.cpp(338): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ni\desktop\code\cam\affectiva\source.cpp(383): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\source.cpp(385): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ni\desktop\code\cam\affectiva\source.cpp(386): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         E:\NI\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\NI\Desktop\code\cam\Debug\Affectiva.exe" /INCREMENTAL /NOLOGO freeglut.lib glew32.lib glfw3dll.lib kinect20.lib Identification.lib FaceDetection.lib FaceAlignment.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\NI\Desktop\code\cam\Debug\Affectiva.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\NI\Desktop\code\cam\Debug\Affectiva.lib" /MACHINE:X86 Debug\affectiva.obj
+         Debug\Source.obj
+         Affectiva.vcxproj -> C:\Users\NI\Desktop\code\cam\Debug\Affectiva.exe
+     1>Done Building Project "C:\Users\NI\Desktop\code\cam\Affectiva\Affectiva.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.03
